@@ -2,6 +2,8 @@
 
 Doki is an open-source observability tool designed to collect and understand the usage of Large Language Models (LLMs). Our tooling is crafted for enthusiasts and developers seeking to monitor and understand their LLM interactions more deeply.
 
+![alt text](./banner.jpg)
+
 ## Key Features
 
 - **Dokumetry SDKs**: Lightweight and easy-to-integrate SDKs aimed at simplifying the collection of LLM usage data.
