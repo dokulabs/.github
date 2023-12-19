@@ -19,10 +19,4 @@ We plan to extend our support to more LLMs, always refining observability.
 
 ### Community-First Approach:
 
-Doku is built on collaboration. Simple, direct, and open for all, we encourage your input to help shape our tool's evolution.
-
-### Join & Contribute:
-
-Every contribution counts! Engage with us to enhance LLM observability.
-
-- **GitHub**: Contribute to Doku on [GitHub](https://github.com/doku).
+Doku is built on open-source collaborations. Simple, direct, and open for all, we encourage your input to help shape Doku's evolution.
